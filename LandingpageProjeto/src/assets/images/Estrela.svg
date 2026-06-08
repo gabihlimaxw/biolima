@@ -1,0 +1,19 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_4_929)">
+<rect x="20" y="20" width="80" height="80" rx="12" fill="#3E2221" shape-rendering="crispEdges"/>
+<rect x="21" y="21" width="78" height="78" rx="11" stroke="#E9C176" stroke-width="2" shape-rendering="crispEdges"/>
+<path d="M54 69L60 64.425L66 69L63.75 61.575L69.75 57.3H62.4L60 49.5L57.6 57.3H50.25L56.25 61.575L54 69ZM60 75C57.925 75 55.975 74.6063 54.15 73.8188C52.325 73.0312 50.7375 71.9625 49.3875 70.6125C48.0375 69.2625 46.9688 67.675 46.1812 65.85C45.3937 64.025 45 62.075 45 60C45 57.925 45.3937 55.975 46.1812 54.15C46.9688 52.325 48.0375 50.7375 49.3875 49.3875C50.7375 48.0375 52.325 46.9688 54.15 46.1812C55.975 45.3937 57.925 45 60 45C62.075 45 64.025 45.3937 65.85 46.1812C67.675 46.9688 69.2625 48.0375 70.6125 49.3875C71.9625 50.7375 73.0312 52.325 73.8188 54.15C74.6063 55.975 75 57.925 75 60C75 62.075 74.6063 64.025 73.8188 65.85C73.0312 67.675 71.9625 69.2625 70.6125 70.6125C69.2625 71.9625 67.675 73.0312 65.85 73.8188C64.025 74.6063 62.075 75 60 75ZM60 72C63.35 72 66.1875 70.8375 68.5125 68.5125C70.8375 66.1875 72 63.35 72 60C72 56.65 70.8375 53.8125 68.5125 51.4875C66.1875 49.1625 63.35 48 60 48C56.65 48 53.8125 49.1625 51.4875 51.4875C49.1625 53.8125 48 56.65 48 60C48 63.35 49.1625 66.1875 51.4875 68.5125C53.8125 70.8375 56.65 72 60 72Z" fill="#E9C176"/>
+</g>
+<defs>
+<filter id="filter0_d_4_929" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="10"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.772549 0 0 0 0 0.627451 0 0 0 0 0.34902 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4_929"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4_929" result="shape"/>
+</filter>
+</defs>
+</svg>
